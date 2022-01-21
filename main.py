@@ -1,4 +1,4 @@
-from check_functions.check_values import fetch_values
+from check_functions.fetch_values import fetch_values
 import schedule
 import time
 
