@@ -5,7 +5,6 @@ import json
 def fetch_values():
     """
     :return: filename and extension if exists, else => False
-
     """
 
     file = json_check()
